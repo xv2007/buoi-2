@@ -1,0 +1,23 @@
+body {
+    background-color: antiquewhite;
+    font-family: 'Raleway', sans-serif;
+}
+.heading,.title{
+    font-size: 50px;
+    text-align: center;
+    font-weight: 100;    
+}
+ .HOW-IT-WORK-CONTENT .phone-devices img{
+width: 150px;
+}
+.HOW-IT-WORK-CONTENT{
+    display: flex;
+    align-items: center;
+    
+}
+.HOW-IT-WORK-CONTENT ul,li{
+    list-style: none;
+}
+.HOW-IT-WORK-CONTENT li {
+    margin: 20px 0px;
+}
